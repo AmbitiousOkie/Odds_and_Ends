@@ -1,0 +1,28 @@
+Tab stop
+"Flight #:\t9191\t\tSeat:\t21B"
+
+Quotes in a string
+"Login Password: \t\t\"sdalifjljkf\""
+
+Backslash in a string
+"sdalfkjadlj \\ sdalfkja \\ sdalfkja"
+
+New line
+"sdlkfja \n asdlkfjasdl"
+
+Incrementing by 1
+var++ or var--
+
+Return the 12th character from a string
+string.charAt(11)
+
+Built-ins
+alert("zomg!") - creates a pop-up
+confirm("are you sure?") -- Cancel returns a false value
+prompt("enter something") || var userName = prompt("Username?"); -- Cancel returns a null value
+typeof || "typeof true" -- boolean || "typeof null" -- object
+
+
+"array".map
+
+var results = array.map(*some function* ); // modifies each array item with the function
